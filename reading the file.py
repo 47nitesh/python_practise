@@ -1,0 +1,5 @@
+f=open("temp.txt","r")
+# print(f.write("My name is Thor"))
+# f.write("\nI am currently in bachelor program level ")
+print(f.read())
+f.close()
