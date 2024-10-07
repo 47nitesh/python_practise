@@ -1,4 +1,4 @@
-f=open("temp.txt","a+")
+f=open("../temp.txt", "a+")
 # print(f.write("\nMeeting coordinater:Dhiraj Shah"))
 # f.write("\nResources manager:Biraj Chapagain")
 
